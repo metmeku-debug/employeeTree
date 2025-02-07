@@ -1,0 +1,16 @@
+.custom-snackbar {
+    background-color: #323232; /* Dark background */
+    color: #ffffff; /* White text */
+    font-size: 16px; /* Larger font */
+    padding: 16px; /* More padding */
+    border-radius: 8px; /* Rounded corners */
+    text-align: center; /* Centered text */
+    width: 20vh;
+    height: 20vh;
+  }
+  
+  /* Optional: Customize the action button (e.g., 'Close') */
+  .custom-snackbar .mat-button-wrapper {
+    color: #ffcc00; /* Action button color */
+  }
+  
